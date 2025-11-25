@@ -1,0 +1,11 @@
+C:\Users\PC ACER\OneDrive\Desktop\FILE\BaithuchanhWinform\baiTH2\bin\Debug\baiTH2.exe.config
+C:\Users\PC ACER\OneDrive\Desktop\FILE\BaithuchanhWinform\baiTH2\bin\Debug\baiTH2.exe
+C:\Users\PC ACER\OneDrive\Desktop\FILE\BaithuchanhWinform\baiTH2\bin\Debug\baiTH2.pdb
+C:\Users\PC ACER\OneDrive\Desktop\FILE\BaithuchanhWinform\baiTH2\obj\Debug\baiTH2.csproj.AssemblyReference.cache
+C:\Users\PC ACER\OneDrive\Desktop\FILE\BaithuchanhWinform\baiTH2\obj\Debug\baiTH2.Form1.resources
+C:\Users\PC ACER\OneDrive\Desktop\FILE\BaithuchanhWinform\baiTH2\obj\Debug\baiTH2.Properties.Resources.resources
+C:\Users\PC ACER\OneDrive\Desktop\FILE\BaithuchanhWinform\baiTH2\obj\Debug\baiTH2.csproj.GenerateResource.cache
+C:\Users\PC ACER\OneDrive\Desktop\FILE\BaithuchanhWinform\baiTH2\obj\Debug\baiTH2.csproj.CoreCompileInputs.cache
+C:\Users\PC ACER\OneDrive\Desktop\FILE\BaithuchanhWinform\baiTH2\obj\Debug\baiTH2.exe
+C:\Users\PC ACER\OneDrive\Desktop\FILE\BaithuchanhWinform\baiTH2\obj\Debug\baiTH2.pdb
+C:\Users\PC ACER\OneDrive\Desktop\FILE\BaithuchanhWinform\baiTH2\obj\Debug\baiTH2.exe.config
